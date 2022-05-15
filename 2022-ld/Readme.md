@@ -6,5 +6,5 @@
 * Slides - I will upload my slides here following the talk
 * Video - I will link to the video when it is made publicly available
 * https://github.com/darrenjw/logreg - repo mentioned in the talk, examining MCMC-based fully Bayesian inference for a logistic regression model using a variety of languages and libraries
-* https://github.com/darrenjw/isba2021 - supporting information for my related talk at ISBA 2021
+* https://github.com/darrenjw/isba2021 - supporting information for my related talk at ISBA 2021 - includes a bunch of useful web links
 
