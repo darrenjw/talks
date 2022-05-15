@@ -1,6 +1,6 @@
 # Talks
 
-Supporting information for talks
+Supporting information for talks by DJW.
 
 ### Upcoming/recent:
 
@@ -8,4 +8,12 @@ Supporting information for talks
 
 
 ### Past:
+
+* [ISBA 2021]()
+* [RSS Read Paper discussion]()
+
+The talks listed here are just upcoming and recent talks for which supporting information is available. **[Full list of upcoming and past talks](https://darrenjw.github.io/work/research/talks/)**.
+
+
+
 
