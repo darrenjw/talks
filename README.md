@@ -9,8 +9,8 @@ Supporting information for talks by DJW.
 
 ### Past:
 
-* [ISBA 2021]()
-* [RSS Read Paper discussion]()
+* [ISBA 2021](https://github.com/darrenjw/isba2021), online, June 2021 - *A compositional approach to Bayesian computation*
+* [RSS Read Paper discussion](https://github.com/darrenjw/unbiased-mcmc), London, November 2019 - *Unbiased MCMC with couplings*
 
 The talks listed here are just upcoming and recent talks for which supporting information is available. **[Full list of upcoming and past talks](https://darrenjw.github.io/work/research/talks/)**.
 
