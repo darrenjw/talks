@@ -4,7 +4,7 @@ Supporting information for talks by DJW.
 
 ### Upcoming/recent:
 
-* [Bayesian inference in HEP](2022-bayes-hep), Durham, May 2022 - *Fully Bayesian parameter inference for Markov processes*
+* [Bayesian inference in HEP](2022-bayes-hep/Readme.md), Durham, May 2022 - *Fully Bayesian parameter inference for Markov processes*
 * [Laplace's Demon Webinar](2022-ld/Readme.md), online, May 2022 - *Compositional approaches to scalable Bayesian computation*
 
 ### Past:
