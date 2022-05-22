@@ -6,3 +6,4 @@
 * **PDF slides** - will upload after the talk
 * https://github.com/darrenjw/smfsb - website for my textbook, Stochastic modelling for systems biology
 * https://github.com/darrenjw/logreg - MCMC for a logistic regression model in various languages and with various libraries
+* https://github.com/darrenjw/talks/blob/main/2022-ld/Readme.md - materials for a recent talk on Scalable Bayesian computation
