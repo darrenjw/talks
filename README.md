@@ -17,4 +17,17 @@ The talks listed here are just upcoming and recent talks for which supporting in
 
 
 
+## Non-academic talks
+
+### FP NE Meetup
+
+Some materials for some sessions I've led at our local functional programming meetup.
+
+* [Evening of Scala](https://github.com/darrenjw/FPNEM-2020-07), July 2020
+* [Intro to epidemic modelling](https://github.com/darrenjw/FPNEM-2020-05), May 2020
+* [Intro to Apache Spark](https://github.com/darrenjw/FPNEM-2017-03), March 2017
+* [FP basics](https://github.com/darrenjw/FPNEM-2016-04), April 2016
+
+
+
 
