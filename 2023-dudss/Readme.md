@@ -2,7 +2,7 @@
 
 ## Durham University Data Science Society, Durham, January 2023
 
-* Talk slides
+* [Talk slides](djw-dudss.pdf)
 * Some languages and libraries: [Scala](https://www.scala-lang.org/), [Spark](https://spark.apache.org/), [Haskell](https://www.haskell.org/), [JAX](https://jax.readthedocs.io/en/latest/), [Dex](https://github.com/google-research/dex-lang)
 * [Scastie](https://scastie.scala-lang.org/) - experiment with Scala in a browser
 * Materials for a recent talk on [scalable Bayesian computation](../2022-ld/Readme.md)
