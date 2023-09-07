@@ -9,4 +9,12 @@
 * Video recording of the meeting - will link when available
 * The published papers - will link when available
 
+### Other links
+
+* [RSS discussion meetings](https://rss.org.uk/training-events/events/discussion-papers/)
+* [Draft of Paper 1, for discussion](https://rss.org.uk/RSS/media/File-library/Events/Discussion%20meetings/Preprint_Li-et-al-_6-Sept-2023_Harrogate.pdf) - Automatic Change-Point Detection in Time Series via Deep Learning
+* [Draft of Paper 2, for discussion](https://rss.org.uk/RSS/media/File-library/Events/Discussion%20meetings/Preprint_Benton-et-al-_6-Sept-2023_Harrogate.pdf) - From Denoising Diffusions to Denoising Markov Models
+
+
+
 
