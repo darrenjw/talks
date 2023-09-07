@@ -1,6 +1,6 @@
 # Probabilistic and Statistical Aspects of Machine Learning
 
-## My materials relating to the discussion of the RSS B Read Paper meeting on "Probabilistic and Statistical Aspects of Machine Learning"
+## DJW's materials relating to the discussion of the RSS B Read Paper meeting on "Probabilistic and Statistical Aspects of Machine Learning"
 
 ### Invited discussant and proposer of the vote of thanks
 
