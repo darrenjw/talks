@@ -4,7 +4,7 @@ Supporting information for talks by DJW.
 
 ### Upcoming/recent:
 
-* [RSS Read Paper discussion meeting](2023-rss/), Harrogate, September 2023 - *Probabilistic and Statistics Aspects of Machine Learning*
+* [RSS Read Paper discussion meeting](2023-rss/), Harrogate, September 2023 - *Probabilistic and Statistical Aspects of Machine Learning*
 
 ### Past:
 
