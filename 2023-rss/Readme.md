@@ -5,7 +5,7 @@
 ### Invited discussant and proposer of the vote of thanks
 
 * [My slides](slides.pdf) as presented at the meeting
-* My written discussion - will link when available
+* [My written discussion](proposer.pdf) - as submitted following the meeting
 * Video recording of the meeting - will link when available
 * The published papers - will link when available
 
