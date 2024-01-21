@@ -6,8 +6,11 @@
 
 * [My slides](slides.pdf) as presented at the meeting
 * [My written discussion](proposer.pdf) - as submitted following the meeting
+* [My published discussion](https://doi.org/10.1093/jrsssb/qkad160)
 * Video recording of the meeting - will link when available
-* The published papers - will link when available
+* The published papers:
+    * [Automatic Change-Point Detection in Time Series via Deep Learning](https://doi.org/10.1093/jrsssb/qkae004)
+	* [From Denoising Diffusions to Denoising Markov Models](https://doi.org/10.1093/jrsssb/qkae005)
 
 ### Other links
 
