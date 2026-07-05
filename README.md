@@ -4,10 +4,11 @@ Supporting information for talks by DJW.
 
 ### Upcoming/recent:
 
-* [RSS Read Paper discussion meeting](2023-rss/Readme.md), Harrogate, September 2023 - *Probabilistic and Statistical Aspects of Machine Learning*
+* [Compositional Foundations of Statistics & Machine learning](2026-cf/Readme.md), Warwick, July 2006 - *Functional and compositional approaches to scalable statistical computing*
 
 ### Past:
 
+* [RSS Read Paper discussion meeting](2023-rss/Readme.md), Harrogate, September 2023 - *Probabilistic and Statistical Aspects of Machine Learning*
 * [Durham University Data Science Society](2023-dudss/Readme.md), Durham, January 2023 - *Functional languages for data science (at scale)*
 * [RSS North East Inaugural Boys Lecture](https://github.com/darrenjw/BWK/), Newcastle, June 2022 - *Bayesian inference for a stochastic kinetic model*
 * [Bayesian inference in HEP](2022-bayes-hep/Readme.md), Durham, May 2022 - *Fully Bayesian parameter inference for Markov processes*
